@@ -67,12 +67,9 @@ _IFA Marcel Sauvage | Mont-Saint-Aignan_
 
 ## Centres d'intérêt
 
-**Danse moderne jazz**  
-_Depuis l'âge de 3 ans_
+| Activité      | Durée         |
+| ------------- |:-------------:|
+| Danse         | 20 ans de pratique    |
+| Chant         | 2 ans de cours   |
+| Vice-Présidence du BDE Flaubert Sup'      | 1 année     |
 
-**Chant**  
-_Cours de chant pris pendant 2 ans_
-
-**Vice-Présidente du BDE Flaubert Sup'**  
-_Bénévolat et tenue de la vice-présidence pendant 1 an, sur l'année universitaire 2021-2022_  
-_Gestion des réunions et des partenariats, organisation d'évènements à destination des étudiants de l'ISD Flaubert, relais entre les membres de l'équipe..._
