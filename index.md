@@ -11,6 +11,13 @@ camille.duval2@icloud.com
 76520 Mesnil-Raoul  
 Retrouvez-moi sur LinkedIn : https://www.linkedin.com/in/camilleduval14/
 
+## Compétences professionnelles
+Qualités rédactionnelles
+Social Media (Facebook ; LinkedIn ; Instagram)
+Logiciels de production visuelle (Canva ; Indesign ; notions de Photoshop)
+Création d'une stratégie de communication
+Suivi des indicateurs de performance des réseaux sociaux
+
 ## Expériences professionnelles
 **Responsable du pôle communication**  
 *Septembre 2021 à aujourd'hui*  
