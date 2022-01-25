@@ -71,5 +71,5 @@ _IFA Marcel Sauvage | Mont-Saint-Aignan_
 | ------------- |:-------------:|
 | Danse         | 20 ans de pratique    |
 | Chant         | 2 ans de cours   |
-| Vice-Présidence du BDE Flaubert Sup'      | 1 année     |
+| Vice-Présidence du BDE Flaubert Sup'      | 1 année (2021-2022  |
 
