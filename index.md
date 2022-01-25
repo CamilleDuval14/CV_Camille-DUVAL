@@ -6,7 +6,7 @@
 ## Responsable communication digitale
 
 ### Informations personnelles  
-camille.duval2@icloud.com
+camille.duval2@icloud.com | 
 29 juin 1998 (23 ans)  
 76520 Mesnil-Raoul  
 Retrouvez-moi sur LinkedIn : https://www.linkedin.com/in/camilleduval14/
@@ -21,7 +21,7 @@ Suivi des indicateurs de performance des réseaux sociaux
 ## Expériences professionnelles
 **Responsable du pôle communication**  
 *Septembre 2021 à aujourd'hui*  
-_1min pour 1job - Oissel_
+_1min pour 1job | Oissel_
 
 * Réalisation de la stratégie de communication globale
 * Gestion des réseaux sociaux
@@ -32,7 +32,7 @@ _1min pour 1job - Oissel_
 
 **Community Manager**  
 *Septembre 2020 à Août 2021*  
-_Camembert Production - Oissel_
+_Camembert Production | Oissel_
 
 * Gestion des réseaux sociaux (LinkedIn, Facebook, Instagram)
 * Rédaction d'articles de blog
@@ -40,7 +40,7 @@ _Camembert Production - Oissel_
 
 **Assistante de direction**  
 *Septembre 2018 à Juillet 2020*  
-_Technicentre SNCF de Rouen Quatre-Mares - Saint-Etienne-du-Rouvray_
+_Technicentre SNCF de Rouen Quatre-Mares | Saint-Etienne-du-Rouvray_
 
 * Gestion d'équipe
 * Gestion administrative des dossiers de formation
@@ -49,7 +49,7 @@ _Technicentre SNCF de Rouen Quatre-Mares - Saint-Etienne-du-Rouvray_
 ## Formations
 **Mastère Professionnelle Communication Corporate**  
 *Septembre 2021 à Juillet 2023*  
-_ISD Flaubert - Rouen_
+_ISD Flaubert |Rouen_
 
 **Licence Professionnelle Chargé.e de Communication**  
 *Septembre 2020 à Juillet 2021*  
@@ -60,7 +60,7 @@ _ISD Flaubert - Rouen_
 
 **BTS Support à l'Action Managériale**  
 *Septembre 2018 à Juillet 2020*  
-_IFA Marcel Sauvage - Mont-Saint-Aignan_
+_IFA Marcel Sauvage | Mont-Saint-Aignan_
 
 * Obtenu
 
