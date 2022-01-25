@@ -6,7 +6,7 @@
 ## Responsable communication digitale
 
 ### Informations personnelles  
-camille.duval2@icloud.com 
+camille.duval2@icloud.com
 29 juin 1998 (23 ans)  
 76520 Mesnil-Raoul  
 Retrouvez-moi sur LinkedIn : https://www.linkedin.com/in/camilleduval14/
