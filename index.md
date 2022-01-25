@@ -1,5 +1,5 @@
 # Camille DUVAL
-![Camille Duval_Photo.](https://github.com/CamilleDuval14/CV_Camille-DUVAL/blob/main/camilleduval.png")
+![Camille Duval_Photo.](camilleduval.png")
 
 
 
