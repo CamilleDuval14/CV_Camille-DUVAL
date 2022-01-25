@@ -1,5 +1,5 @@
 # Camille DUVAL
-![Camille Duval_Photo.](/bureau/camilleduval.png "Camille Duval.")
+![Camille Duval_Photo.](/images/camilleduval.png "Camille Duval.")
 
 
 
